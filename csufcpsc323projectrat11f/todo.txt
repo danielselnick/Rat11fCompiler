@@ -1,0 +1,8 @@
+update visio
+update excel
+helper functions for fsm
+encapsulate copy pasted functionality in lex.cpp into a function
+check if correct id is a keyword
+test software
+create deliverables
+write up required materials for turn in

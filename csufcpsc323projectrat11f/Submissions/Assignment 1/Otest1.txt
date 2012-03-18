@@ -1,0 +1,9 @@
+Keyword while
+Seperator (
+Identifier fahr
+Operator <
+Identifier upper
+Seperator )
+Identifier a
+Operator =
+Real 23.00

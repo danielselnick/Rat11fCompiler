@@ -1,0 +1,6 @@
+Error: Expecting '#' Try again and come back later. Thank you!
+ <Opt Function Definitions> ::= <Function Definitions>
+<Function Definitions> ::= <Function> <Function Definitions Prime>
+<Opt Function Definitions> ::= <Empty>
+Error: Expecting ')' Try again and come back later. Gracias!
+<Opt Parameter List> ::= <Empty>

@@ -1,0 +1,362 @@
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+1
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+2
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+3
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+4
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+5
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+6
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+7
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+8
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+9
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+0
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+1
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+2
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+3
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+4
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+5
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+6
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+7
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+8
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+9
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+0
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+1
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+2
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+3
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+4
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+5
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+6
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+7
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+8
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+9
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+0
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+1
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+2
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+3
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+4
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+5
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+scan (low, high, step);
+int low, high, step;
+scan (low, high, step);
+while(low< high)
+int low, high, step;
+6
+int low, high, step;
+end

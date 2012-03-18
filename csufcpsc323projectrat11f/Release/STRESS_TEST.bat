@@ -1,0 +1,1 @@
+start cpsc323project.exe STRESS_TEST.txt STRESSout.txt

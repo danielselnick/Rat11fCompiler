@@ -1,0 +1,8 @@
+#
+function myAdd()
+{
+a:=b+c;
+return a;
+}
+#
+#

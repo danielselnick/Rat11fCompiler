@@ -1,0 +1,25 @@
+#
+function myTemperature()
+{
+int low, high, step;
+
+bool test := true;
+
+real decimal := 2.76;
+
+if(test = true){
+return false;
+}
+
+
+
+while (low< high)
+	{
+		print(low);
+		write(convert[low]);
+		low := low+step;
+	}
+return low;
+}
+#
+#

@@ -1,0 +1,52 @@
+#
+#
+int x, y, z, w;
+boolean x, y, z, w;
+real x, y, z, w;
+
+{
+x := 1.23;
+y := 1;
+z := true;
+w := false;
+a := x;
+}
+
+if ( x < y )
+return x;
+endif
+
+if ( x > y)
+{
+print ( x * y );
+}
+endif
+
+if ( x /= y )
+{
+{
+{
+
+scan ( x, y, z);
+}
+}
+}
+endif
+
+
+while ( x => y )
+return;
+
+while ( ( x - y) = ( x + y ))
+{
+if ( x = true )
+{
+return true;
+}
+else
+{
+x := ( x + y);
+}
+endif
+}
+#
